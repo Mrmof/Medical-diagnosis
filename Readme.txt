@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+This is a medical diagnostic system that automates diagnosis.
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Absenece of recognition of medical conditions results in a request for appointment with a medical practitioner.
+
+The system was built using PHP OOP. 
+
+It comprises of two input portal for admin and user. 
