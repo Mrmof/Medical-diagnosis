@@ -1,0 +1,3 @@
+SetEnv APP "C:\xampp\htdocs\Medical diagnosis\app.php"
+SetEnv PROJECT_ROOT "C:\xampp\htdocs\Medical diagnosis"
+SetEnv HOST_URL "http://localhost/Medical diagnosis"
